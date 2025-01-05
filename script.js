@@ -4,7 +4,7 @@ let questions = []; // Holds the quiz questions
 let score = 0; // Tracks the user's score
 
 // URL of the CSV data
-const csvUrl = 'https://ourworldindata.org/grapher/life-expectancy.csv';
+const csvUrl = 'https://ourworldindata.org/grapher/life-expectancy.csv';pyenv
 
 // Function to fetch and parse CSV data
 async function fetchLifeExpectancyData() {
